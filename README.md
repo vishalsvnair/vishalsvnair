@@ -36,3 +36,6 @@ I am a Data Analyst passionate about transforming raw data into actionable busin
 
 </p>
 
+>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalsvnair&show_icons=true&locale=en" alt="vishalsvnair" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsvnair&" alt="vishalsvnair" /></p>
