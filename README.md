@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Vishal Nair</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalsvnayar&label=Profile%20views&color=0e75b6&style=flat" alt="vishalsvnayar" /> </p>
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+
+
 📊 Data Analyst | SQL • Python • Power BI • Tableau • Advance Excel | Statistical Analysis & Data Visualization
 
 I am a Data Analyst passionate about transforming raw data into actionable business insights. Skilled in Data Analysis, Data Visualization, Business Intelligence, Dashboard Development, and Reporting using Power BI, SQL, Excel, and Tableau.
