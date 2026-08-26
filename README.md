@@ -35,4 +35,4 @@ I am a Data Analyst passionate about transforming raw data into actionable busin
 </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsvnair&" alt="vishalsvnair" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsvnair&" alt="vishalsvnair" /></p>
+
