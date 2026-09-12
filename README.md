@@ -35,7 +35,9 @@ I am a Data Analyst passionate about transforming raw data into actionable busin
 </a>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vishalsvnair" alt="Vishal Nair GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=vishalsvnair&theme=default&hide_border=true&date_format=j%20M%5B%2C%20Y%5D"
+    alt="Vishal Nair GitHub Streak"
+  />
 </p>
-
 
